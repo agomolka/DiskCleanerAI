@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+secrets/
+output_json
+raw_txt
+parsed_json
+__pycache__
